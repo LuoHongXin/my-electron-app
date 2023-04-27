@@ -2,4 +2,4 @@
 
 
 具体文档可查看：
-* <a href="https://note.youdao.com/s/RSCZ6ggO">有道云笔记</a>
+* <a href="https://note.youdao.com/s/RSCZ6ggO" _blank>有道云笔记</a>
